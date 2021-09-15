@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "博文开始处"
 ---
 
-I'm glad you are here. I plan to talk about ...
+这是我的小说集合
